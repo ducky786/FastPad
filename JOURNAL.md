@@ -13,6 +13,8 @@ Most of the time spent was on the schematics because it took me a while to find 
 
 That was basically the things I worked on today, found the parts I wanted a designed a pcb that was the best. Tomorrow I want to work on the 3d modle of the macropad case!
 
+[Time spent this session: 3hrs]
+
 ![image](https://github.com/user-attachments/assets/52b9c4bc-68d9-487f-9b57-53fbf859b3aa)
 ![image](https://github.com/user-attachments/assets/090341dd-8112-4bfa-9288-63b527d9080d)
 ![image](https://github.com/user-attachments/assets/88b5668d-ed0c-4fdd-9b68-dfa67733379c)
