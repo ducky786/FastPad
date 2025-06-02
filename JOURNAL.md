@@ -38,6 +38,13 @@ On the 28th I finally started to make progress on the cad after a whole day of l
 ![image](https://github.com/user-attachments/assets/f4ba7f72-b1ed-4eb1-988f-897ea2a38c58)
 ![image](https://github.com/user-attachments/assets/5c7b74db-5bff-4c99-9893-bc498f8ceadc)
 
+# June 1: Almost done with the case!!!
+
+Yesterday My cousin suggested that I move my progress to fustion 360 as it might be easier and faster. Working on Onshape kinda felt like a nightmare! Everythnig was so slow as it was running on the webrowser and somethings refused to load. So I desideded to move what I had so far to Fustion. I downloaded and imported the base into fution. I decided to start the top plate from scratch again beucase the measurments felt off. But before I started on that I went in and added some tollerence in where the pcb would be. Before it was exactly to size which would most likly not be great when inserting it into the case later on. I added .6mm extra on the inside pcb area. After, I imported my DXF file for the key holes and the 3d modle of the pcb which this time loaded perfectly. Using the pcb as a guide I built the key holes to top plate. As I did this I refrensed to kicad to get the correct measurments and also added in some tollerence. At the end of this I had finsihed most of the holes on for the keys and the potentiometers. Only things that remained were was the USB-C port hole in the back and to clean up the modle and add some cool details maybe. There is one thing that I need to find some way to fix though. For the two potentiometers, they stick up a lot, and this feels very ugly and would show easily. I need to find a way to cover up the base of these potentiometers and make it look a bit more slicker!!
+
+[Time spent this session: 4hrs]
+
+![image](https://github.com/user-attachments/assets/a06c6b78-6158-4a09-baa0-9d8836c448dc)
 
 
 
