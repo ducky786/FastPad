@@ -20,7 +20,7 @@ That was basically the things I worked on today, found the parts I wanted a desi
 ![image](https://github.com/user-attachments/assets/88b5668d-ed0c-4fdd-9b68-dfa67733379c)
 
 
-#May 27 & 28: Started on the macropad case!
+# May 27 & 28: Started on the macropad case!
 
 On the 27th I started to work on my macropad case in Onshape. I had never cadded in my life and this was a huge challange for me! I spent most of this day looking at tutorials trying to learn how to create scketches, extrutions, holes and other stuff. I was still pretty skeptical on wether I could do the cad but I started anyways by taking measurments of my PCB. I planned to import the 3d PCB modle from Kicad into Onshape, so I could build around it to create the case. However, that did not turn out to work as the .step file did not like being imported into Onshape!!! When I tried to import the modle in it would NOT load. I tried countless number of times importing! I kept downloading the .step file form kicad to import into onshape but the file did not want to be loaded in for some reason. On my last attempt I decided to just wait for it to load in. Maybe I was just impatent and didnt give it enough time. 
 
@@ -45,6 +45,24 @@ Yesterday My cousin suggested that I move my progress to fustion 360 as it might
 [Time spent this session: 4hrs]
 
 ![image](https://github.com/user-attachments/assets/a06c6b78-6158-4a09-baa0-9d8836c448dc)
+
+
+# June 8th and 7th: Finished the CAD and the code!!!
+
+After much struggle and delay I finally finished the macropad case on the 5th!. From the last case update and now, most the changes were just cleaning up the edges here and there. My cousin helped me through this last detailing prosses where I started to get the hang of cading! Deffenetly not the best but I was able to do somthing. In this final vertion I raised the top plate higher and left the button plates at the same hight. Doing this allowed me to cover up the slider, encoder and also the screen which all were showing visibly. At the end, the macropad looked very slick. I was using the 3d pcb for refrence to build around which was mostly going well. But the xiao 2040 did not load into the cad modle so I tried finding why it would not load. Turned out that the 3d modle was was not selected properly in Kicad. So after fixing that I reimported the new pcb modle. With the xiao now in place, I was able to cut out the hole for the USB-C. This part I strougled due to the xiao sitting a good way in the case. I was afraid the the hole prevented the cable from going in so I extended the edges a good amount. I used my usb-c as a refrence, where I cut out the perfect amount, hopefully. After finishing all that I noticed the case was looking a bit too thick! so i cut it in have and took out a good chunk so now it looks very thin. This design turned out be a very nice design that stuck out which was gonna go super well with my set up!!!
+
+[Time spent this session: 3hrs]
+
+![image](https://github.com/user-attachments/assets/a94d6763-3f13-436a-ae34-1ebe420b812d)
+
+The next day on 8th I finished the theoretical code where I mapped buttons on my macropad. The top row of buttons I chose to take a screen shot and open VScode. The rotery incoder I decided would be nice to change tabs. I felt this would be the most important funtion becuase I struggle to change my tabs using hotkeys like those people who literaly know all the button functions and change tabs to fast!! The rest of the keys, I changed to copy and past while the slider was set to volume controle. These are not entierly the macros I plan to have. I am thinking for future projects to be able to controle them wiht this macropad which would be very useful as a controler. I still dont know what to display on oled screen so I plan to do it when I hopefully get the macropad. While mapping these functions I refured back to github of from the macropad turoial to help me through the kmk coding! 
+
+For now I feel that I am finally done with the design and the coding part!!! Only thing left now is looking for the PARTSSS!!!
+
+![image](https://github.com/user-attachments/assets/3c5daa86-7c0d-4ffe-9e4b-a7940b4e6b8c)
+
+
+[Time spent this session: 45mins]
 
 
 
