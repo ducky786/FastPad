@@ -29,7 +29,7 @@ I will deffenetly be changing the button macros depending on what I do later on.
 # CAD
 I Made half of the case in onshape but after facing trouble with the software I moved my progress to Fusion360! The case is made up of 2 3D printed parts the top and the bottom. They are both held together with M3x16mm screws M3x5mx4mm heatset inserts! 
 I really loved how this turned out beucase it was my first time cadding and this took the most time in the whole project! very happy with the results!!! 
-I didnt exactly know what to name it so I just gave it my nick name lol :)
+I didnt exactly know what to name it so I named it fast pad beucase I made it to help me be faster in productivity with shortcuts! :)
 
 # BOM
 * 1x xiao 2040
