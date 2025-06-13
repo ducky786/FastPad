@@ -10,11 +10,22 @@ diffrent things that can help me on productivity and combine with future project
 
 ![image](https://github.com/user-attachments/assets/55f5f211-256e-48d7-9f3b-411b358f1ac9)
 
+# PCB:
+This was my first time building a PCB so the connections look very messy!
 
 ![image](https://github.com/user-attachments/assets/3c5daa86-7c0d-4ffe-9e4b-a7940b4e6b8c)
 
+# Frameware
+* Slider controles volume
+* rotary encoder toggles through diffrent tabs
+* 5 buttons, so far only decided on 3 buttons: copy, past, open vscode
+* Not sure what to use the Oled screen to display.
+I will deffenetly be changing the button macros depending on what I do later on.
+
 ![image](https://github.com/user-attachments/assets/a94d6763-3f13-436a-ae34-1ebe420b812d)
 
+# CAD
+The case is made up of 2 3D printed parts the top and the bottom. They are both held together with M2 x 16mm screws! 
 
 # BOM
 * 1x xiao 2040
@@ -24,4 +35,5 @@ diffrent things that can help me on productivity and combine with future project
 * 1x slide Potentiomiter: [slider](https://www.mouser.com/ProductDetail/Bourns/PTL30-15R1-104B2?qs=b8viKDOLiXZRUw8o0OtIKw%3D%3D&srsltid=AfmBOopoE0hObKvTDaviANXkcjZPlvkvTbKF7ejl5Zsrhthjv9kuD8vu)
 * 1x slider keycap: [slider cap](https://www.amazon.com/ezqnirk-10PCS-Mixer-Straight-Potentiometer/dp/B0CLD3T5TN/ref=sr_1_16?crid=3PFH9VSNJOVLJ&dib=eyJ2IjoiMSJ9.vFCWhD2FO888_roA338KFnGPGHrYowEs66kdVQP-jPqUbMepofR9MplnJZ-yfvW_2c0ITgr9VxyoRx1DGslyXfsUo8KQp1sndo_gjvT_vujOzdakJncuEJmu2JM8YLBNUh9mKVzZufOnXLxUUV4gT6IzQ-jEWR-VeebbS6LYet2U0NKvVNncd46uym8sSym1DrRmaOhYy5PlburNjWUTP8m2bHBHbPPgDPUCS8pyJwo.k1ZLgtzwTcqIg9JDznZ09IcSoM5O9TkMRmkt9C1dFn4&dib_tag=se&keywords=slider+keycap&qid=1749678257&sprefix=slider+keycap%2Caps%2C106&sr=8-16)
 * 1x Push button rotary encoder: [Encoder](https://www.amazon.com/Adafruit-Accessories-Rotary-Encoder-piece/dp/B00SK8KK5Y)
-* 
+* 4x m2 x 16mm screws.
+* 1x Case (2 3D printed parts, TOP and BOTTOM)
