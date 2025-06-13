@@ -1,3 +1,5 @@
+# RERE PAD
+
 My project is a simple macropad that consists of 5 buttons, a rotary incoder a slider and a .95" oled display all powerd by a xiao 2040!. 
 I made this project beucase I found myself constantly struggling with navigating around in my divice. I wouold be slow in changing tabs, closing tabs ext. So, I wanted
 to make this so I can navigate faster and more efficently. I also plan on using this micropad as a small controle board for future projects. It has sufficent 
@@ -26,7 +28,8 @@ I will deffenetly be changing the button macros depending on what I do later on.
 
 # CAD
 The case is made up of 2 3D printed parts the top and the bottom. They are both held together with M2 x 16mm screws! 
-I really loved how this turned out beucase it was my first time cadding and this took the most time in the whole project! very happy with the results!!!
+I really loved how this turned out beucase it was my first time cadding and this took the most time in the whole project! very happy with the results!!! 
+I didnt exactly know what to name it so I just gave it my nick name lol :)
 
 # BOM
 * 1x xiao 2040
