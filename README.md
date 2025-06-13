@@ -26,6 +26,7 @@ I will deffenetly be changing the button macros depending on what I do later on.
 
 # CAD
 The case is made up of 2 3D printed parts the top and the bottom. They are both held together with M2 x 16mm screws! 
+I really loved how this turned out beucase it was my first time cadding and this took the most time in the whole project! very happy with the results!!!
 
 # BOM
 * 1x xiao 2040
