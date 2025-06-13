@@ -1,5 +1,5 @@
 ---
-title: "Macropad"
+title: "FASTPAD"
 author: "ReRe"
 description: "Creating a macropad to help with productivity and shortcuts"
 created_at: "2025-05-25"
@@ -11,7 +11,8 @@ I decided to do the starter project as I felt that it would help me with shortcu
 
 Most of the time spent was on the schematics because it took me a while to find a propper slider online to import in and also due to trying to wire a clean schematic. After finishing the schematic I moved to the PCB lay out. I wanted a comfortable feel to it so I designed one that I thought would feel the best in my setup. I might change the lay out later though if I think a new layout might look better. I put the oled screen in the middle. I do want the oled screen to be an an angle so it is easier to view at but I am not yet sure How I would tilte the screen on the pcb! 
 
-That was basically the things I worked on today, found the parts I wanted a designed a pcb that was the best. Tomorrow I want to work on the 3d modle of the macropad case!
+That was basically the things I worked on today, found the parts I wanted and designed a pcb that was ideal!
+Tomorrow I want to work on the 3d modle of the macropad case!
 
 [Time spent this session: 3hrs]
 
@@ -57,12 +58,27 @@ After much struggle and delay I finally finished the macropad case on the 5th!. 
 
 The next day on 8th I finished the theoretical code where I mapped buttons on my macropad. The top row of buttons I chose to take a screen shot and open VScode. The rotery incoder I decided would be nice to change tabs. I felt this would be the most important funtion becuase I struggle to change my tabs using hotkeys like those people who literaly know all the button functions and change tabs to fast!! The rest of the keys, I changed to copy and past while the slider was set to volume controle. These are not entierly the macros I plan to have. I am thinking for future projects to be able to controle them wiht this macropad which would be very useful as a controler. I still dont know what to display on oled screen so I plan to do it when I hopefully get the macropad. While mapping these functions I refured back to github of from the macropad turoial to help me through the kmk coding! 
 
+
+
 For now I feel that I am finally done with the design and the coding part!!! Only thing left now is looking for the PARTSSS!!!
 
 ![image](https://github.com/user-attachments/assets/3c5daa86-7c0d-4ffe-9e4b-a7940b4e6b8c)
 
 
 [Time spent this session: 45mins]
+
+
+# June 13: Finished everything!!!
+
+Today I finished putting in all the required files into Github and looked for the parts online! I struggled a bit with the BOM.csv beucase I didnt know what exactly to put in it. So, I just ended up adding the item, Quantity, discription and also links to some of the parts! Next I finsished downloading and importing the diffrent cad files, the whole case design and also the top and bottom. This was the time I also considerd what to name my macropad. I decided to name it FastPad becuase I designed it to help me be faster when it comes to productivity with the use of macros and quick controles. I added the rest of the folders like firmware, pcb and production! Here I included the main.py file of the python kmk code along with the different pcb files! And with all that the only thing I had left is to fill out the submition form and cross my fingers this project gets approved!!!!
+
+![image](https://github.com/user-attachments/assets/4e5266b6-743e-4572-8679-58f414481fcb)
+
+[Time spent this session: 3hrs]
+[Total Hours Spent: 21.45 hrs]
+
+
+
 
 
 
