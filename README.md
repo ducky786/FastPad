@@ -1,4 +1,4 @@
-# RERE PAD
+# FASTPAD
 
 My project is a simple macropad that consists of 5 buttons, a rotary incoder a slider and a .95" oled display all powerd by a xiao 2040!. 
 I made this project beucase I found myself constantly struggling with navigating around in my divice. I wouold be slow in changing tabs, closing tabs ext. So, I wanted
